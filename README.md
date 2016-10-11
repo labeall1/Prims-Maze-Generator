@@ -9,9 +9,9 @@ About this code:
 - The maze represents the Minimum Spanning Tree (MST) created
 
 Classes:
-Cell.java - This file represents the Cell object and its attributes
-Maze.java - This file is how the maze is generated and where the algorithm is coded
-MazeVisual.java - This file is where the basic visual of the maze is created before the algorithm is run
+- Cell.java: This file represents the Cell object and its attributes
+- Maze.java: This file is how the maze is generated and where the algorithm is coded
+- MazeVisual.java: This file is where the basic visual of the maze is created before the algorithm is run
 
 How to run this code:
 - Run this code in an IDE (I use IntelliJ)
